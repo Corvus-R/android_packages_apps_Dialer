@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2014 The CyanogenMod Project
      Copyright (C) 2018 The LineageOS Project
+     Copyright (C) 2020-2021 Corvus Rom. 
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <string name="incall_category_key" translatable="false">dialer_general_incall_category_key</string>
     <string name="incall_category_title">In-call</string>
     <string name="incall_enable_dnd_title">Enable Do Not Disturb during calls</string>
@@ -43,4 +45,7 @@
     <string name="call_via_dialog_title">Call via\u2026</string>
 
     <string name="call_log_stats_title">Statistics</string>
+    <string name="auto_call_recording_title">Auto call recording</string>
+    <string name="auto_call_recording_key" translatable="false">auto_call_recording</string>
+
 </resources>
